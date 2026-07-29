@@ -1,0 +1,15 @@
+import BoltzmannEquationsCanonicalLaneLean.AdmissibleClass
+import BoltzmannEquationsCanonicalLaneLean.BridgeLemmas
+import BoltzmannEquationsCanonicalLaneLean.GateLemmas
+import BoltzmannEquationsCanonicalLaneLean.FinalTheorem
+import BoltzmannEquationsCanonicalLaneLean.CollisionKernel
+import BoltzmannEquationsCanonicalLaneLean.HydrodynamicLimit
+import BoltzmannEquationsCanonicalLaneLean.RegularityTheory
+
+namespace HautevilleHouse
+namespace BoltzmannEquationsCanonicalLaneLean
+
+-- This module is the root of the BoltzmannEquationsCanonicalLaneLean Lean proof package.
+
+end BoltzmannEquationsCanonicalLaneLean
+end HautevilleHouse
